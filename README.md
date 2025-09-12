@@ -1,3 +1,15 @@
+### COMPANY : CODTECH IT SOLUTIONS.
+
+### NAME : SAKSHI PRAKASH PATIL.
+
+### INTERN ID : CT6MDG1923
+
+### DOMAIN : Artificial Intelligence
+
+### DURATION : 6 MONTHS
+
+### MENTOR : NEELA SANTOSH
+
 ### Speech_Recognitio_System
 
 This project is a Speech Recognition System (Voice Assistant) built using Python.
